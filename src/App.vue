@@ -1,6 +1,5 @@
-<body onload=window.location.href = "www.instagram.com/melodycakespoa">
-
 <template>
+<body onload=window.location.href = "www.instagram.com/melodycakespoa">
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>

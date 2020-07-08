@@ -1,4 +1,5 @@
 <template>
+<body onload=window.location.href = "www.instagram.com/melodycakespoa">
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
