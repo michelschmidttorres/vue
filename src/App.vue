@@ -5,7 +5,7 @@
 </template>
 
 <script>
-   window.location.href = 'www.instagram.com/melodycakespoa/' 
+   window.location.href = 'https://www.instagram.com/melodycakespoa/' 
 </script>
 
 <style>
